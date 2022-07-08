@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655914619 source:d:\number to words\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
